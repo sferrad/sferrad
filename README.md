@@ -19,7 +19,7 @@ Développeur C 💻, étudiant à l'école 42, passionné par la cybersécurité
 
 ## Compétences
 
-- **Langages** : C, Python 🐍
+- **Langages** : C,C++ ,Python 🐍
 - **Outils** : Git, Makefile, GDB 🛠️
 - **Frameworks** : Libft, MiniLibX 🧩
 - **Systèmes** : Linux (Debian, Ubuntu, Kali), Windows 10, POSIX 🖧
