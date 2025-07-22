@@ -1,16 +1,26 @@
-## Hi there 👋
+# Sabry Ferrad
 
-<!--
-**sferrad/sferrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur C/C++ 💻, étudiant à l'école 42, passionné par la cybersécurité 🔐.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets terminés
+
+- **[Minishell](https://github.com/sferrad/minishell)**  
+  Shell simplifié en C 🖥️, avec gestion des commandes, builtins, pipes et redirections.
+- **[Philosophers](https://github.com/sferrad/philosophers)**  
+  Reproduction du problème des philosophes en utilisant des threads pour gérer la synchronisation et éviter les deadlocks.
+- **[Cub3D](https://github.com/sferrad/Cub3D)**
+  Moteur de raycasting en C 🧱, avec rendu 3D à partir d'une map 2D, textures, déplacements fluides et parsing de fichiers .cub.
+
+## Contact
+- 💻 Intra 42 : [sferrad](https://profile-v3.intra.42.fr/)
+- 📧 Email : [sferrad@student.42.fr](mailto:sferrad@student.42.fr)
+
+## Compétences
+
+- **Langages** : C, C++ ,Python 🐍
+- **Outils** : Git, Makefile, GDB 🛠️
+- **Frameworks** : Libft, MiniLibX 🧩
+- **Systèmes** : Linux (Debian, Ubuntu, Kali), Windows 10, POSIX 🖧
+
+🔗 **[GitHub](https://github.com/sferrad)**
