@@ -11,9 +11,10 @@ Développeur C/C++ 💻, étudiant à l'école 42, passionné par la cybersécur
 
 
 ## Contact<br><br>   
-💻 Intra 42 : sferrad<br>    📧 Email : sferrad@student.42.fr<br><br>Compétences<br><br>    
-## Langages : 
-C, C++ ,Python 🐍<br>    Outils : Git, Makefile, GDB 🛠️<br>    Frameworks : Libft, MiniLibX 🧩<br>    Systèmes : Linux (Debian, Ubuntu, Kali), Windows 10, POSIX 🖧<br>
+💻 Intra 42 : sferrad<br>    📧 Email : sferrad@student.42.fr<br><br>
+
+## Compétences <br><br>
+Langages : C, C++ ,Python 🐍<br>    Outils : Git, Makefile, GDB 🛠️<br>    Frameworks : Libft, MiniLibX 🧩<br>    Systèmes : Linux (Debian, Ubuntu, Kali), Windows 10, POSIX 🖧<br>
 
 
 ## 🌐 Socials:
