@@ -9,6 +9,7 @@ Développeur C/C++ 💻, étudiant à l'école 42, passionné par la cybersécur
   [IReversibleShell](https://github.com/sferrad/IReversibleShell) :   Reverse shell éducatif en Python 🐍, conçu pour comprendre le fonctionnement des shells inversés dans un cadre légal et pédagogique.<br><br>
 [Keyser Soze](https://github.com/sferrad/Keyser-Soze) : Keylogger Python 🕵️, conçu à des fins pédagogiques pour démontrer la capture de frappes clavier et d’interactions souris dans un cadre sécurisé.<br><br>
   [webserv](https://github.com/sferrad/webserv) : Serveur HTTP/1.1 en C++98 🌐, avec configuration type nginx, multi-ports (8080/8081…), epoll, CGI (Python/PHP..), upload, autoindex, redirections et gestion native des cookies. <br><br>
+[ft_transcendence](https://github.com/sferrad/ft_transcendence) : Plateforme web full‑stack 🖥️ containerisée (React/TypeScript + microservices FastAPI) avec API Gateway, services User/Chat/Friends/Game/Profile/Analytics, Postgres par service, Redis, auth JWT, secrets via Vault, WAF (Nginx/ModSecurity) et monitoring Prometheus/Grafana/Alertmanager. (En développement...)
 
 
 ## Contact<br><br>   
